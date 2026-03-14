@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Becoming — Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 { font-size: 24px; margin-bottom: 4px; }
+        h2 { font-size: 18px; margin-top: 32px; }
+        .subtitle { color: #888; font-size: 14px; margin-bottom: 32px; }
+        p { margin: 12px 0; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="subtitle">Becoming — Habit Tracker &middot; Last updated: March 2026</p>
+
+    <h2>Overview</h2>
+    <p>Becoming is designed with your privacy in mind. Your data belongs to you and stays with you.</p>
+
+    <h2>Data Collection</h2>
+    <p>Becoming does <strong>not</strong> collect, store, or transmit any personal data to external servers. We do not use analytics, tracking, or advertising frameworks of any kind.</p>
+
+    <h2>Data Storage</h2>
+    <p>All habit data, logs, and preferences are stored locally on your device. If you enable iCloud sync, your data is stored in your personal iCloud account using Apple's CloudKit framework. This data is only accessible to you through your Apple ID.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>Becoming does not integrate with any third-party services. There are no ads, no analytics SDKs, and no social features.</p>
+
+    <h2>Notifications</h2>
+    <p>If you enable reminders, notifications are scheduled locally on your device. No notification data is sent to external servers.</p>
+
+    <h2>Data Export & Deletion</h2>
+    <p>You can export your data as JSON or CSV at any time from the app's Profile tab. You can delete individual habits or all data directly within the app. Uninstalling the app removes all local data.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Becoming does not knowingly collect any information from children. The app does not require an account or any personal information to use.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>If this policy is updated, the changes will be reflected on this page with an updated date.</p>
+
+    <h2>Contact</h2>
+    <p>If you have questions about this privacy policy, please reach out at <a href="mailto:becoming.app.help@gmail.com">becoming.app.help@gmail.com</a>.</p>
+</body>
+</html>
